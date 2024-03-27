@@ -5,7 +5,8 @@ My studies are focused on Machine Learning and Statistical Learning, leveraging 
 
 ## 🎓 **Education**
 
- - Bachelor / Electrical Engineering at University of Pavia
+ - Bachelor / Mechanical Engineering at University of Pavia
+ - Master / Electrical Engineering at University of Pavia
  - PhD / Physics at University of Milan-Bicocca
 
 ## 📫 **Get in touch**
