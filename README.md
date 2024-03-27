@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 ## 🧠 **About me**
 - 📚 I love writing in 📖 $\LaTeX$ 📖
-- I like study physics of the semiconductor
+- I like studing physics of the semiconductor
