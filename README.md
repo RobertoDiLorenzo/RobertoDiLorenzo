@@ -21,7 +21,7 @@ My studies are focused on Machine Learning and Statistical Learning, leveraging 
 </ul>
 
 ## 📌 **Some interesting projects**
-
+[`State Space Matrix for DCDC Buck converter`](https://github.com/RobertoDiLorenzo/Python/tree/main/DCDC_state_space): Developed State Space Matrix for a DCDC buck converter with L,C as a parameters.
 <!--
 **RobertoDiLorenzo/RobertoDiLorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
